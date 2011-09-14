@@ -1,0 +1,10 @@
+Rice Analysis User Manual
+=========================
+
+
+Initialization of the analysis
+------------------------------
+Menu *init-file-system* must be called after the checkout of the source code and
+before executions of any other menus.
+
+
